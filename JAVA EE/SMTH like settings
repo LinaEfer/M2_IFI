@@ -1,0 +1,22 @@
+<settings>
+  <proxies>
+   <proxy>
+      <active>true</active>
+      <protocol>http</protocol>
+      <host>proxy.univ-lille1.fr</host>
+      <port>3128</port>
+      <username></username>
+      <password></password>
+      <nonProxyHosts>localhost|127.0.0.1</nonProxyHosts>
+    </proxy>
+    <proxy>
+       <active>true</active>
+       <protocol>https</protocol>
+       <host>proxy.univ-lille1.fr</host>
+       <port>3128</port>
+       <username></username>
+       <password></password>
+       <nonProxyHosts>localhost|127.0.0.1</nonProxyHosts>
+     </proxy>
+  </proxies>
+</settings>
